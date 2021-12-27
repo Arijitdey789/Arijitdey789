@@ -1,6 +1,6 @@
 ###  👋 Hi there
-###   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=25 height=25> I am Sourjya Chatterjee
-🔭 I'm currently doing my master's in **Big Data Analytics**. Majorly focusing upon **CV, NLP, Machine Learning, Deep Learning, AI.**
+###   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=25 height=25> I am Arijit Dey
+🔭 I'm currently doing my B.Sc in **Computer Science**. Majorly focusing upon **Data Structure , Statistics**
 <p>
   <em>
     <b>Data Science Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=25 height=25> 
