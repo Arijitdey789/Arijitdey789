@@ -24,7 +24,7 @@
 <a target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></a>
 <a target="_blank"><img alt="Matplotlib" src="https://img.shields.io/badge/-matplotlib-2C2D72?style=for-the-badge&logo=matplotlib&logoColor=white" /></a>-->
 
-#### Databases:
+<!--#### Databases:
 <a target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 <!--<a target="_blank"><img alt="Neo4J" src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" /></a>-->
 
