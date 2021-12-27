@@ -1,9 +1,9 @@
 ###  👋 Hi there
 ###   <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width=25 height=25> I am Arijit Dey
-🔭 I'm currently doing my B.Sc in **Computer Science**. Majorly focusing upon **Data Structure , Statistics**
+🔭 I'm currently doing B.Sc in **Computer Science**. Majorly focusing upon **Data Structure , Statistics**
 <p>
   <em>
-    <b>Data Science Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=25 height=25> 
+    <b>Computer Science Student</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width=25 height=25> 
   </em>
  </p>
 <img align="right" alt="Coder GIF" height=250 width=300 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
